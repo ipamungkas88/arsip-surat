@@ -35,7 +35,7 @@ Membantu digitalisasi dokumen surat agar lebih mudah dicari, aman, dan efisien d
 1. **Clone repository**
 
     ```bash
-    git clone https://github.com/shuriza/arsip-surat.git
+    git clone https://github.com/ipamungkas88/arsip-surat.git
     cd arsip-surat
     ```
 
@@ -73,6 +73,7 @@ Membantu digitalisasi dokumen surat agar lebih mudah dicari, aman, dan efisien d
 7. **Jalankan aplikasi**
 
     ```bash
+    npm run dev
     php artisan serve
     ```
 
