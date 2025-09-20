@@ -63,6 +63,7 @@ Membantu digitalisasi dokumen surat agar lebih mudah dicari, aman, dan efisien d
     php artisan migrate
     php artisan db:seed
     ```
+     > atau bisa langsung import databse, di dalam foleder databse terdapat file .sql
 
 6. **Buat storage link**
 
